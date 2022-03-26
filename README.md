@@ -7,7 +7,7 @@
 
 | Email | Autor |
 |-------|-------|
-|2102092@ucc.edu.ar|Tomi|
+|2102092@ucc.edu.ar|Tomi Cassanelli|
 
 :octocat:
 :+1:
