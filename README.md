@@ -1,8 +1,4 @@
 # primerRepositorio
-<!-- 1er Paso: Git Status -->
-<!-- 2do Paso: Git Log -->
-<!-- Git Push -->
-
 
 ## Autor
 * Tomas **Cassanelli**
@@ -11,7 +7,7 @@
 
 | Email | Autor |
 |-------|-------|
-|...|Tomi|
+|2102092@ucc.edu.ar|Tomi|
 
 :octocat:
 :+1:
